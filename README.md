@@ -1,4 +1,4 @@
-#Link: [https://netflix-clone-bba1f.web.app/](Netflix-clone)
+# Link: [Netflix-clone](https://netflix-clone-bba1f.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
